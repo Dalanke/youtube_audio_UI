@@ -7,6 +7,9 @@ https://github.com/Dalanke/youtube_audio_API
 Visit the live demo at:<br>
 https://stayhome-ui.herokuapp.com/
 
+Interested in audio player component? Check the code of React audio player at:<br>
+https://github.com/Dalanke/react_audio_player
+
 ## Environment variable setting
 
 Creat `.env` file and sets a variable per line for local testing and depolyment:
